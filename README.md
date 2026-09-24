@@ -66,4 +66,7 @@ contenga @ y que la contrasena tenga al menos 8 caracteres, y muestra los
 
 mensajes con JOptionPane.
 ```
+<<<<<<< HEAD
 [Tarea: mi prompt profesional](prompts/TAREA.md)
+=======
+>>>>>>> d6d595775442b8d29e83f1c8a15db25368614742
